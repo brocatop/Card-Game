@@ -1,0 +1,10 @@
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\CS225 - GUI Lab Brocato\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\CardLibrary\obj\Debug\CardLibrary.pdb

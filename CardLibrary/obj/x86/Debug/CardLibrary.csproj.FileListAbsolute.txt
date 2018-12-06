@@ -1,0 +1,9 @@
+C:\Users\jgrady\Documents\_Thomas\Spring, 2014\CS225 - C#\Assignments\Assignment 6\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\jgrady\Documents\_Thomas\Spring, 2014\CS225 - C#\Assignments\Assignment 6\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\jgrady\Documents\_Thomas\Spring, 2014\CS225 - C#\Assignments\Assignment 6\CardLibrary\obj\x86\Debug\CardLibrary.dll
+C:\Users\jgrady\Documents\_Thomas\Spring, 2014\CS225 - C#\Assignments\Assignment 6\CardLibrary\obj\x86\Debug\CardLibrary.pdb
+C:\Users\jgrady\Documents\_Thomas\Spring, 2014\CS225 - C#\Assignments\Assignment 6\CardLibrary\obj\x86\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jgrady\Documents\_Thomas\Fall, 2015\CS225 - C#\Assignments\Assignment 6\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\jgrady\Documents\_Thomas\Fall, 2015\CS225 - C#\Assignments\Assignment 6\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\jgrady\Documents\_Thomas\Fall, 2015\CS225 - C#\Assignments\Assignment 6\CardLibrary\obj\x86\Debug\CardLibrary.dll
+C:\Users\jgrady\Documents\_Thomas\Fall, 2015\CS225 - C#\Assignments\Assignment 6\CardLibrary\obj\x86\Debug\CardLibrary.pdb

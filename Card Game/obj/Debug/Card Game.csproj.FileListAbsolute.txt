@@ -1,0 +1,10 @@
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\CS225 - GUI Lab Brocato\Card Game\obj\Debug\MainWindow.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\CS225 - GUI Lab Brocato\Card Game\obj\Debug\App.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\CS225 - GUI Lab Brocato\Card Game\obj\Debug\Card Game_MarkupCompile.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\CS225 - GUI Lab Brocato\Card Game\obj\Debug\Card Game_MarkupCompile.lref
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\CS225 - GUI Lab Brocato\Card Game\obj\Debug\Card Game.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\Card Game\obj\Debug\Card Game.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\Card Game\obj\Debug\MainWindow.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\Card Game\obj\Debug\App.g.cs
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\Card Game\obj\Debug\Card Game_MarkupCompile.cache
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Card Game\Card Game\obj\Debug\Card Game_MarkupCompile.lref
